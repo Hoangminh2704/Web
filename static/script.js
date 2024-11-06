@@ -43,3 +43,5 @@ document.getElementById("registerForm")?.addEventListener("submit", async (event
         window.location.href = "/";
     }
 });
+// Đã sửa file
+
